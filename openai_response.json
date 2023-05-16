@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-7Cuwgr5xkjYePdCG1M3ivCpjo42vR",
+    "object": "text_completion",
+    "created": 1683313190,
+    "model": "text-davinci-003",
+    "choices": [
+        {
+            "text": "\n\nQuestion: What did the US Supreme Court do on Friday, May 5, 2021?\nA. Uphold the execution of Richard Glossip\nB. Put on hold the execution of Richard Glossip\nC. Delay the execution of Richard Glossip\nD. Deny the execution of Richard Glossip\n\nAnswer: B. Put on hold the execution of Richard Glossip",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 750,
+        "completion_tokens": 79,
+        "total_tokens": 829
+    }
+}

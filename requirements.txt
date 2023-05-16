@@ -1,0 +1,5 @@
+google-cloud-speech
+pyaudio
+Pillow
+pytesseract
+openai
